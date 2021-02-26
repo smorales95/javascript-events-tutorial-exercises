@@ -4,8 +4,3 @@ window.onload = function myLoadFunction() {
 };
 
 //the listener function here
-window.myEventListener = function myEventListener() {
-	//your code here
-	alert("wuju");
-	//console.log(first);
-};
